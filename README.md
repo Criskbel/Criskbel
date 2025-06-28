@@ -67,6 +67,14 @@
   </a>
 </p>
 
+<h3><strong>Projects</strong></h3>
+<p>
+  <a href="https://github.com/CriskBel/Personal-Voice-Assistant-Python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=Personal-Voice-Assistant-Python&theme=tokyonight" />
+  </a>
+</p>
+
+
 
 
 
