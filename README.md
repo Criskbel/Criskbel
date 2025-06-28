@@ -1,21 +1,29 @@
 ![Image](https://github.com/user-attachments/assets/e9d56ee9-185a-4f53-b699-bdf7c5690f21)
 <!-- Presentación -->
-<h2>Hi, I’m Belizario Gutiérrez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2>
+  Hi, I’m Belizario Gutiérrez 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+</h2>
 
 <!-- Texto animado -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Scientist;I'm+a+Nanotechnology+Engineer" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Scientist;I'm+a+Nanotechnology+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Sobre mí -->
 <h3><strong>About Me</strong></h3>
 <p>
-  🚀 <strong>Nanotechnology Engineering</strong> passionate about solving real-world problems through code, science, and creativity.<br>
-  💻 I build projects at the intersection of <strong>AI, math, and biomedical devices</strong>.<br>
-  📚 Constant learner, currently diving deeper into <strong>Java, Python, and generative AI tools</strong>.<br>
-  🌐 Open to collaboration and always looking for <strong>challenges that push me forward</strong>.
+  🚀 <strong>Nanotechnology Engineer</strong> | <strong>AI Enthusiast</strong> | <strong>Solution-Driven Researcher</strong><br><br>
+  Passionate about mathematical modeling, nanoengineered medical systems, and computational physics.<br>
+  Strong foundation in advanced mathematics, physical simulations, and object-oriented programming in Python and Java.<br>
+  I integrate artificial intelligence as a creative tool to enhance research, develop technology, and explore interdisciplinary applications.<br>
+  Researcher at heart, committed to translating theory into impactful real-world solutions.
+</p>
+
+
+
 </p>
 
 
