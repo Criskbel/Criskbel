@@ -1,16 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/e9d56ee9-185a-4f53-b699-bdf7c5690f21)
-<!-- Presentación -->
-<h2>
-  Hi, I’m Belizario Gutiérrez 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
-</h2>
 
 <!-- Texto animado -->
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Scientist;I'm+a+Nanotechnology+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Belizario+Gutiérrez;Nanotech+Engineer+%7C+AI+Explorer+%7C+Scientist;Code+with+Purpose,+Create+with+Science." alt="Typing SVG" />
 
 <!-- Sobre mí -->
 <h3><strong>About Me</strong></h3>
