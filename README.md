@@ -35,13 +35,17 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   </a>
+  <a href="https://www.sympy.org/en/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SymPy-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="SymPy"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
 </p>
+
 
 <!-- Tecnologías -->
 <h3><strong>Technologies I’ve had hands-on experience with</strong></h3>
