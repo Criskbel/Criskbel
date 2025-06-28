@@ -73,6 +73,12 @@
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/Criskbel/Java-Minesweeper-OOP-Game-with-Swing-UI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Criskbel&repo=Java-Minesweeper-OOP-Game-with-Swing-UI&theme=tokyonight" />
+  </a>
+</p>
+
 
 
 
