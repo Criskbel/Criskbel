@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/e9d56ee9-185a-4f53-b699-bdf7c5690f21)
+![Image](https://github.com/user-attachments/assets/af9d2615-1114-4838-823a-cd219d7b5322)
 
 <!-- Texto animado -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Belizario+Gutiérrez;Nanotech+Engineer+%7C+AI+Explorer+%7C+Scientist;Code+with+Purpose,+Create+with+Science." alt="Typing SVG" />
