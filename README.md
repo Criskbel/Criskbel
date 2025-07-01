@@ -92,6 +92,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=VOLUMTUBE&theme=tokyonight" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/CriskBel/Cribejua">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=Cribejua&theme=tokyonight" />
+  </a>
+</p>
 
 
 
