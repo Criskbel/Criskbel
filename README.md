@@ -71,32 +71,30 @@
 </p>
 
 <h3><strong>Projects</strong></h3>
-<p>
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/CriskBel/Personal-Voice-Assistant-Python">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=Personal-Voice-Assistant-Python&theme=tokyonight" />
   </a>
-</p>
-
-<p>
   <a href="https://github.com/Criskbel/Java-Minesweeper-OOP-Game-with-Swing-UI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Criskbel&repo=Java-Minesweeper-OOP-Game-with-Swing-UI&theme=tokyonight" />
   </a>
-</p>
-<p>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/CriskBel/Concrete-Stop-Simulation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=Concrete-Stop-Simulation&theme=tokyonight" />
   </a>
-</p>
-<p>
   <a href="https://github.com/CriskBel/VOLUMTUBE">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=VOLUMTUBE&theme=tokyonight" />
   </a>
-</p>
-<p>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/CriskBel/Cribejua">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CriskBel&repo=Cribejua&theme=tokyonight" />
   </a>
-</p>
+</div>
+
 
 
 
