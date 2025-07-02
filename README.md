@@ -44,7 +44,11 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  </a>
 </p>
+
 
 
 <!-- Tecnologías -->
@@ -68,7 +72,11 @@
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </a>
+  <a href="https://mobaxterm.mobatek.net/" target="_blank">
+    <img src="https://img.shields.io/badge/MobaXterm-003366?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MobaXterm"/>
+  </a>
 </p>
+
 
 <h3><strong>Projects</strong></h3>
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
